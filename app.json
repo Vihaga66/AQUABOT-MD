@@ -179,7 +179,7 @@
          "ADD_MESSAGE": {
             "description": "",
             "value": "default" ,
-            "required": true
+            "required": false
       },
         "PROMOTE_MESSAGE": {
             "description": "",
