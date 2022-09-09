@@ -10,6 +10,7 @@
      "env": {
             "AQUA_SESSION": {
             "description": "",
+            "value": "🛑" ,
             "required": true
              },
             "NO_ONLINE": {
