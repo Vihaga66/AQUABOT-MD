@@ -108,37 +108,37 @@
      
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥ඔහොම ඉන්න සින්දුව Download වෙනෝ ❤️...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*📤ඔහොම ඉන්න සින්දුව Upload වෙනෝ ❤️...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥ඔහොම ඉන්න වීඩියෝ එක Download වෙනෝ 💙...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤ඔහොම ඉන්න වීඩියෝ එක Upload වෙනෝ 💙 ...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*📥ඔහොම ඉන්න file එක Download වෙනෝ 💛...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📥ඔහොම ඉන්න file එක upload වෙනෝ 💛...*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲ᴠɪʜᴀɢᴀ ⃨𝚋oƚ ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
