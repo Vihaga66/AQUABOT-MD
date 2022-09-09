@@ -10,7 +10,7 @@
      "env": {
             "AQUA_SESSION": {
             "description": "",
-            "value": "🛑" ,
+            "value": "AQUA=UoomgZJK#oPh3a29MgB6fdp93TmEsTpuclxZArePO0JxizwyZqto" ,
             "required": true
              },
             "NO_ONLINE": {
@@ -25,11 +25,12 @@
              },
             "ONLY_GROUP": {
             "description": "",
-            "value": "false" ,    
+            "value": "true" ,    
             "required": true
              },
              "REMOVE_BG_API_KEY": {
             "description": "",
+            "value": "Mb2EuNHqbZXqsQbDzviqcETx" ,
             "required": true
              },
             "OWN_NAME": {
