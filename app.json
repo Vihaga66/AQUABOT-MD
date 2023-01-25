@@ -10,7 +10,7 @@
      "env": {
             "AQUA_SESSION": {
             "description": "",
-            "value": "AQUA=UoomgZJK#oPh3a29MgB6fdp93TmEsTpuclxZArePO0JxizwyZqto" ,
+            "value": "AQUA=88gU0ApS#DHQEuXEa9u4nx1Hjg_67uuVhitZGBAD-EC2fUrMKkp0" ,
             "required": true
              },
             "NO_ONLINE": {
@@ -57,17 +57,17 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://chat.whatsapp.com/GbRnjUet4aSCs1ijDuuwOU" ,
+            "value": "https://chat.whatsapp.com/C6lkzPuCxzM5wE8OF7LVk3" ,
             "required": true
       },
      "URL_2NAME": {
             "description": "",
-            "value": "💛 YouTube channel 💛" ,
+            "value": "💛 👉 YouTube - SUBSCRIBE click 👈 💛" ,
             "required": true
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://youtube.com/channel/UC3ZwkFVKgeCY9BEA-cdutwA" ,
+            "value": "https://www.youtube.com/@V-SL-Tech" ,
             "required": true
       },
        "FOOTER": {
